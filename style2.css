@@ -1,0 +1,7 @@
+.photo{
+    border-image: auto;
+    max-width: 100%;
+   height: auto;
+   background-size: cover;
+   background-position: center;
+}
